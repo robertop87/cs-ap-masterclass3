@@ -18,4 +18,3 @@
   ```
 - Ejecutar ejemplos actualizados:
   `python example1/fundamentos_qiskit_updated.py`
-  `python example2/`
