@@ -17,4 +17,7 @@
   pip install cirq
   ```
 - Ejecutar ejemplos actualizados:
-  `python example1/fundamentos_qiskit_updated.py`
+  ```bash
+  python example1/fundamentos_qiskit_updated.py
+  python example2/hadamard_circuit_updated.py
+  ```
