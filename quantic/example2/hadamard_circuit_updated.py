@@ -24,10 +24,10 @@ def main():
     print("Resultados de medición:", counts)
 
     # Visualizar los resultados usando un histograma
-    plot_histogram(counts).show()
+    # plot_histogram(counts).show()
 
     # Esperar una entrada del teclado antes de cerrar
-    input("Presiona cualquier tecla para cerrar la gráfica y salir...")
+    # input("Presiona cualquier tecla para cerrar la gráfica y salir...")
 
 if __name__ == "__main__":
     main()
